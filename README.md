@@ -22,8 +22,12 @@ Core Concepts
 DSA • OS • OOP • DBMS • Computer Networks • Computer Organization • AI • Machine Learning Fundamentals
 
 Achievements
-Winner, MOI Forge Hackathon: independently designed and developed a Participation-Based DAO on Voyage Devnet
+Winner, MOI Forge Hackathon: independently designed and developed a Participation-Based DAO on Voyage Devnet  
+
+
 Top 10, Inter-College Ideathon
+
+
 Top 60, Build with Trae Hackathon, Presidency University
 Vice President, Genesis Club: managed club finances and supported blockchain-focused events
 Leadership Team, Art Club, Presidency University: led the planning and execution of multiple cultural events
