@@ -49,6 +49,4 @@ Deloitte: Data Analytics Job Simulation
 Tata: Data Visualization for Business Insights
 
 
-Connect with Me
 
-Email LinkedIn
