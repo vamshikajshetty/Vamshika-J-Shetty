@@ -8,9 +8,9 @@ Web Development
 Programming Languages
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,java,js,r,solidity" /> </p>
 Blockchain
-<p align="left"> <img src="https://skillicons.dev/icons?i=ethereum" /> <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" /> <img src="https://img.shields.io/badge/Remix_IDE-1C1C1C?style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/MOI_Protocol-5B21B6?style=for-the-badge" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" /> <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" /> <img src="https://img.shields.io/badge/Remix_IDE-007ACC?style=for-the-badge" /> <img src="https://img.shields.io/badge/MOI_Protocol-5B21B6?style=for-the-badge" /> </p>
 AI & Data
-<p align="left"> <img src="https://skillicons.dev/icons?i=powerbi" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge" /> <img src="https://img.shields.io/badge/Multi--Agent_Systems-4B5563?style=for-the-badge" /> <img src="https://img.shields.io/badge/ggplot2-2C7BB6?style=for-the-badge&logo=r&logoColor=white" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/ggplot2-2C7BB6?style=for-the-badge&logo=r&logoColor=white" /> <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge" /> <img src="https://img.shields.io/badge/Multi--Agent_Systems-0F766E?style=for-the-badge" /> </p>
 Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql" /> </p>
 Hardware & IoT
@@ -21,22 +21,16 @@ Core Concepts
 
 DSA • OS • OOP • DBMS • Computer Networks • Computer Organization • AI • Machine Learning Fundamentals
 
-Projects
-Participation-Based DAO (MOI Protocol): a rules-based reward distribution system that automates incentive allocation based on user activity, deployed on Voyage Devnet. (Solidity, DAO Governance)
-Waypoint, Multi-Agent AI Trip Planner: sequential AI agents for destination research, itinerary generation, and budget estimation. (JavaScript, Node.js, Groq API)
-Decentralized Voting System: blockchain voting app with MetaMask integration and a token-based participation incentive. (Solidity, Web3.js)
-BlinkIT Grocery Sales Analysis: cleaned 8,500+ records and built exploratory visualizations to uncover sales trends. (R, ggplot2)
-Borewell Rescue Robotic Hand: Raspberry Pi-controlled robotic hand with camera feed to assist in borewell rescue. (Raspberry Pi, Robotics)
 Achievements
-Winner, MOI Forge Hackathon
+Winner, MOI Forge Hackathon: independently designed and developed a Participation-Based DAO on Voyage Devnet
 Top 10, Inter-College Ideathon
-Top 60, Build with Trae Hackathon
-Vice President, Genesis Club, Presidency University
-Leadership Team, Art Club, Presidency University
+Top 60, Build with Trae Hackathon, Presidency University
+Vice President, Genesis Club: managed club finances and supported blockchain-focused events
+Leadership Team, Art Club, Presidency University: led the planning and execution of multiple cultural events
 Certifications
-
-HP: AI for Beginners • Deloitte: Data Analytics Job Simulation • Tata: Data Visualization for Business Insights
-
+HP: AI for Beginners
+Deloitte: Data Analytics Job Simulation
+Tata: Data Visualization for Business Insights
 Connect with Me
 
 Email LinkedIn
